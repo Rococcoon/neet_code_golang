@@ -84,3 +84,13 @@ BFS is typically implemented with a **queue** data structure. You start by
 adding the root node to the queue. While the queue is not empty, you remove a 
 node from the front, process it, and then add its children to the back of the 
 queue.
+
+### Binary Tree vs Binary Search Tree
+
+* **Binary Tree:** Each node has at most two children. There are no specific 
+  ordering rules for the nodes, and its primary use is for general hierarchical 
+  data organization.
+* **Binary Search Tree (BST):** Each node has at most two children, but it 
+  follows a strict ordering property. All values in a node's left subtree are 
+  less than the node's value, and all values in its right subtree are greater. 
+  Its primary use is for efficient searching, insertion, and deletion.

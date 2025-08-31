@@ -1,5 +1,5 @@
 // Package trees contains Helper functions and an api for the tree
-// modules to use
+// pacakges to use
 package trees
 
 type TreeNode struct {
