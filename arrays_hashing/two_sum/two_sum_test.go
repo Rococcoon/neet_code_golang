@@ -1,3 +1,4 @@
+// Package twosum
 package twosum
 
 import (
